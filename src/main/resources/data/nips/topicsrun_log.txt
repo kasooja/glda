@@ -1,0 +1,4 @@
+Starting to initialize
+Initialization complete
+Average ll at the begining -25.842354642282878
+Gibbs sampler will run for 4 iterations

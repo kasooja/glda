@@ -1,0 +1,7 @@
+Starting to initialize
+Initialization complete
+Average ll at the begining -25.84224997024516
+Gibbs sampler will run for 4 iterationsStarting iteration 0
+Iteration completed: 0
+Time taken for this iteration 245.148
+Avg log-likelihood at the end of iteration 0 is -23.39261057360762
